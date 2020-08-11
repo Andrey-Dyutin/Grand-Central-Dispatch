@@ -13,6 +13,7 @@
 		7530708224E27A9F0021A289 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7530708024E27A9F0021A289 /* Main.storyboard */; };
 		7530708424E27AA10021A289 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7530708324E27AA10021A289 /* Assets.xcassets */; };
 		7530708724E27AA10021A289 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7530708524E27AA10021A289 /* LaunchScreen.storyboard */; };
+		7530708F24E27D580021A289 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7530708E24E27D580021A289 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7530708324E27AA10021A289 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7530708624E27AA10021A289 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7530708824E27AA10021A289 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7530708E24E27D580021A289 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				7530707A24E27A9F0021A289 /* AppDelegate.swift */,
 				7530707C24E27A9F0021A289 /* SceneDelegate.swift */,
+				7530708E24E27D580021A289 /* SecondViewController.swift */,
 				7530707E24E27A9F0021A289 /* ViewController.swift */,
 				7530708024E27A9F0021A289 /* Main.storyboard */,
 				7530708324E27AA10021A289 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7530708F24E27D580021A289 /* SecondViewController.swift in Sources */,
 				7530707F24E27A9F0021A289 /* ViewController.swift in Sources */,
 				7530707B24E27A9F0021A289 /* AppDelegate.swift in Sources */,
 				7530707D24E27A9F0021A289 /* SceneDelegate.swift in Sources */,
